@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "username": "shadow",
+    "password": "1234"
+  },
+  "pricing": {
+    "followers": 3,
+    "likes": 2,
+    "comments": 5,
+    "shares": 2.5
+  },
+  "site": {
+    "name": "TikTok Boost Pro",
+    "currency": "PKR"
+  }
+}
